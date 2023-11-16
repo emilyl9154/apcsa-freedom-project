@@ -21,7 +21,7 @@ I also set the string `text` to "Hello World!".
 This is an image of the UI editor.
 ![app-ui](../images/blog/b1-as-ui.png)
 
-To text change when I press the button, I have a function [(which I partially got from this Stack Overflow post)](https://stackoverflow.com/questions/4768969/how-do-i-change-textview-value-inside-java-code) that uses the `setText` method to change the text:
+To change the text when I press the button, I have a function [(which I partially got from this Stack Overflow post)](https://stackoverflow.com/questions/4768969/how-do-i-change-textview-value-inside-java-code) that uses the `setText` method to change the text:
 ```java
 binding.button.setOnClickListener(new View.OnClickListener() {
     @Override
@@ -32,7 +32,7 @@ binding.button.setOnClickListener(new View.OnClickListener() {
 });
 ```
 
-Here's it in action on my phone:  
+Here's it in action on my phone:
 ![app-test](../images/blog/b1-app-test.gif)
 
 
