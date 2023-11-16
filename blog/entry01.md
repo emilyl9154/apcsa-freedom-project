@@ -32,7 +32,7 @@ binding.button.setOnClickListener(new View.OnClickListener() {
 });
 ```
 
-Here's it in action on my phone:
+Here's it in action on my phone:  
 ![app-test](../images/blog/b1-app-test.gif)
 
 
