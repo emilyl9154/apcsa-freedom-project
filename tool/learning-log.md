@@ -68,6 +68,8 @@ Project: **A reminder app where you pin the reminder/task to your notifications,
             app:layout_constraintTop_toTopOf="parent" />
         ```
 
+---
+
 12/26/23(?) & 1/7/24
 - What I did:
     - Added a textbox using the UI editor & edited attributes to make most of the color a light blue (#75bfff)
